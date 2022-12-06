@@ -1,0 +1,1 @@
+Project done during Full Stack Software Engineering studies at ALX-Africa program. Aims to know about alias, initialization files, variables, expansion, Arithmetic, help, special parameters, single and double quotes in shell.
